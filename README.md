@@ -1,7 +1,7 @@
 ![Front-End Developer (Jnr)](https://media.licdn.com/dms/image/v2/D5616AQFES9k1Hqg_uQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725587152130?e=1738800000&v=beta&t=YOdVDD8CarfWe5IfdY7TsZOqsfWKuvcR7UO2kbaBdoA)
 
-### Hi there 👋, Habeeb Sowemimo
-#### Front-End Developer (Jnr)
+### Hi there 👋, I'm Habeeb
+#### Aspiring Front-End Developer (Jnr)
 
 I’m a Computer Science undergraduate at the University of Toledo (Class of 2026) with a growing passion for front-end development. I’m actively building my skills in Python, HTML, CSS, JavaScript, and frameworks like React, aiming to create seamless, user-friendly web experiences.
 
